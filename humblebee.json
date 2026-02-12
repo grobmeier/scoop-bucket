@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/grobmeier/humblebee/releases/download/v0.1.0/humblebee_0.1.0_windows_amd64.zip",
+            "bin": [
+                "humblebee.exe"
+            ],
+            "hash": "ae2a419a49d263d4be874d37987297988e4794c37d32ca77f6386e2a9139c961"
+        },
+        "arm64": {
+            "url": "https://github.com/grobmeier/humblebee/releases/download/v0.1.0/humblebee_0.1.0_windows_arm64.zip",
+            "bin": [
+                "humblebee.exe"
+            ],
+            "hash": "44ad5e2b2de3fcb0f73fb770a2e2a785109393bae67d32a89614009b2cf667b4"
+        }
+    },
+    "homepage": "https://humblebee.work",
+    "description": "Local-first CLI time tracking"
+}
