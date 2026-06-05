@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/grobmeier/humblebee/releases/download/v0.1.0/humblebee_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/grobmeier/humblebee/releases/download/v0.2.0/humblebee_0.2.0_windows_amd64.zip",
             "bin": [
                 "humblebee.exe"
             ],
-            "hash": "ae2a419a49d263d4be874d37987297988e4794c37d32ca77f6386e2a9139c961"
+            "hash": "cd23586b530c60cb0c71a98746d21370db53c6c0a6ce3ad1444bdb690c267655"
         },
         "arm64": {
-            "url": "https://github.com/grobmeier/humblebee/releases/download/v0.1.0/humblebee_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/grobmeier/humblebee/releases/download/v0.2.0/humblebee_0.2.0_windows_arm64.zip",
             "bin": [
                 "humblebee.exe"
             ],
-            "hash": "44ad5e2b2de3fcb0f73fb770a2e2a785109393bae67d32a89614009b2cf667b4"
+            "hash": "8d934a8d290deb8d6bd85078b75d29068769ccdf147c3a95022fb1ebc848f77f"
         }
     },
     "homepage": "https://humblebee.work",
