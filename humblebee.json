@@ -1,19 +1,19 @@
 {
-    "version": "0.2.2",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/grobmeier/humblebee/releases/download/v0.2.2/humblebee_0.2.2_windows_amd64.zip",
+            "url": "https://github.com/grobmeier/humblebee/releases/download/v0.3.0/humblebee_0.3.0_windows_amd64.zip",
             "bin": [
                 "humblebee.exe"
             ],
-            "hash": "ee2cfc2f3900e1001f5f1318f4d9659111579a0c7f58cd31300686f87c59388b"
+            "hash": "91b29b295dbccc56f1005f93d0ecd1d5675ee29f114865d55bce9544bc9880cb"
         },
         "arm64": {
-            "url": "https://github.com/grobmeier/humblebee/releases/download/v0.2.2/humblebee_0.2.2_windows_arm64.zip",
+            "url": "https://github.com/grobmeier/humblebee/releases/download/v0.3.0/humblebee_0.3.0_windows_arm64.zip",
             "bin": [
                 "humblebee.exe"
             ],
-            "hash": "e8236b5171e0e1fb025842d5b8aa10b77497ea9e37366c9218aae062e441ed96"
+            "hash": "0303ce6b49c51be52379be45fa155fd3767ddf8aa458c8e99c4c4cfcc3f625b1"
         }
     },
     "homepage": "https://www.timeandbill.de/en/humblebee/",
